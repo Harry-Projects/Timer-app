@@ -31,16 +31,13 @@ To run this app locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/Timer-app.git
 
-
 2. Navigate to the project directory:
    ```bash
    cd Timer-app
 
-
 3. Install the dependencies:
    ```bash
    npm install
-
 
 4. Start the development server:
    ```bash
