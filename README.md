@@ -10,7 +10,6 @@ A simple, responsive timer application built using React. This app allows users 
 - [Code Structure](#code-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
