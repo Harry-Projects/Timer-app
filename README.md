@@ -20,7 +20,7 @@ A simple, responsive timer application built using React. This app allows users 
 - Responsive design for mobile and desktop
 
 ## Demo
-Check out the live version of the Timer App here: [Timer App Demo](https://your-demo-link.com) *(Replace with your actual demo link)*
+Check out the live version of the Timer App here: [Timer App Demo](https://your-demo-link.com)
 
 ## Installation
 
